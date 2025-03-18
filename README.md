@@ -8,19 +8,21 @@ Dataset yang digunakan dalam proyek ini berasal dari Kaggle dan dapat diakses me
 
 ## Struktur Repositori
 
+<pre>
 /project
 │
-├── /data
-│ └── szeged-weather.csv
+├── <b>/data</b>
+│   └── szeged-weather.csv
 │
-├── /notebooks
-│ └── Neural_network_regression_with_TensorFlow_Predict_Weather_Temperature.ipynb
+├── <b>/notebooks</b>
+│   └── Neural_network_regression_with_TensorFlow_Predict_Weather_Temperature.ipynb
 │
-├── /models
-│ └── model.h5
+├── <b>/models</b>
+│   └── model.h5
 │
 ├── README.md
 └── requirements.txt
+</pre>
 
 
 ## Instalasi
